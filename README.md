@@ -1,4 +1,6 @@
-# Ejercicio Practico
+# Ejercicio Práctico
+
+Objetivo: CRUD empleando Spring MVC / Spring Data JPA / MySQL
 
 Para compilar se debe ejecutar el siguiente comando de maven
 
