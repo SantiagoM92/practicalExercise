@@ -2,6 +2,8 @@
 
 Objetivo: CRUD empleando Spring MVC / Spring Data JPA / MySQL
 
+Release: CRUD para la entidad Productos (localhost:8088/productos)
+
 Para compilar se debe ejecutar el siguiente comando de maven
 
 ```
