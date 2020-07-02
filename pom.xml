@@ -22,7 +22,7 @@
         <taglibs-standard-impl.version>1.2.5</taglibs-standard-impl.version>
         <hibernate-validator.version>6.0.9.Final</hibernate-validator.version>
         <validation-api.version>2.0.1.Final</validation-api.version>
-        <mysql-connector-java.version>5.1.46</mysql-connector-java.version>
+        <mysql-connector-java.version>[8.0.16,)</mysql-connector-java.version>
         <tomcat.version>8.5.37</tomcat.version>
         <hibernate-core.version>5.2.17.Final</hibernate-core.version>
         <lombok.version>1.18.8</lombok.version>
