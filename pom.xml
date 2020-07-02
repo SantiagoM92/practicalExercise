@@ -20,7 +20,7 @@
         <junit.version>4.12</junit.version>
         <javax.servlet.jsp.jstl-api.version>1.2.1</javax.servlet.jsp.jstl-api.version>
         <taglibs-standard-impl.version>1.2.5</taglibs-standard-impl.version>
-        <hibernate-validator.version>6.0.9.Final</hibernate-validator.version>
+        <hibernate-validator.version>[6.0.18,)</hibernate-validator.version>
         <validation-api.version>2.0.1.Final</validation-api.version>
         <mysql-connector-java.version>[8.0.16,)</mysql-connector-java.version>
         <tomcat.version>8.5.37</tomcat.version>
