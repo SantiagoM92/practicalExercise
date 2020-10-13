@@ -17,7 +17,7 @@
     <properties>
         <org.springframework.version>[5.1.13,)</org.springframework.version>
         <org.springframework.data.version>[2.1.8,)</org.springframework.data.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <javax.servlet.jsp.jstl-api.version>1.2.1</javax.servlet.jsp.jstl-api.version>
         <taglibs-standard-impl.version>1.2.5</taglibs-standard-impl.version>
         <hibernate-validator.version>[6.0.18,)</hibernate-validator.version>
